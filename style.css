@@ -22,7 +22,7 @@ body {
 }
 #blinking-name {
   position: absolute;
-  top: 20px;
+  top: 100px;
   left: 50%;
   transform: translateX(-50%);
   font-size: 52px;
