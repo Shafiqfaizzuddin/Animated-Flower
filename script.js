@@ -5,7 +5,7 @@ onload = () => {
   }, 1000);
 
   // Get the name you want to display
-  let name = "ADLINA ♡"; // Replace this with whatever name you want to display
+  let name = "ADLINA"; // Replace this with whatever name you want to display
   
   let characters = name.split("");
 
